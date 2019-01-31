@@ -1,0 +1,6 @@
+PORT: "3002"
+HOST: "http://localhost:3002"
+
+SSO_TARGET_URL: "https://dev-158134.oktapreview.com/app/individualdev158134_development_1/exkhr81k2x8EuiHYE0h7/sso/saml"
+CERTIFICATE_FINGERPRINT: "96:33:49:B8:D3:27:25:D8:0A:7B:D9:21:66:7D:8D:EB:60:AC:06:F7"
+CERTIFICATE_FINGERPRINT_ALGORITHM: "XMLSecurity::Document::SHA1"
