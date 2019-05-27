@@ -1,11 +1,7 @@
 class Users::SessionsController < ApplicationController
   protect_from_forgery except: :sso
 
-  def metadata
-
-  end
-
-  def index
+  def lading
 
   end
 
