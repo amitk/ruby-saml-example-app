@@ -1,1 +1,4 @@
-%button.btn{type: "button"} Sign in With Okta
+%container
+  %row
+    .text-center
+      =button_to "Sign in with okta", { action: :new}, { class: "btn btn-outline-secondary", method: :get}
