@@ -1,7 +1,7 @@
 class Users::SessionsController < ApplicationController
   protect_from_forgery except: :sso
 
-  def lading
+  def dashboard
 
   end
 
